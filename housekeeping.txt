@@ -1,0 +1,19 @@
+Corpus file: mens_corpora/wc_dur
+Number of tokens/words: 169411
+Number of types/unique words: 9365
+Top 20 words: [('would', 1849), ('play', 1776), ('team', 1674), ('think', 1494), ('player', 1491), ('like', 1483), ('get', 1221), ('us', 1205), ('game', 1190), ('one', 1159), ('go', 1149), ('good', 1061), ('coach', 1045), ('need', 850), ('time', 815), ('make', 753), ('could', 743), ('guy', 743), ('world', 736), ('year', 725)]
+
+Corpus file: womens_corpora/wc_dur
+Number of tokens/words: 59242
+Number of types/unique words: 5373
+Top 20 words: [('play', 892), ('player', 821), ('team', 757), ('would', 582), ('us', 569), ('game', 558), ('like', 469), ('get', 437), ('think', 430), ('one', 417), ('go', 386), ('coach', 361), ('good', 325), ('ball', 317), ('3', 316), ('back', 316), ('need', 303), ('time', 301), ('win', 290), ('even', 275)]
+
+Corpus file: stop/mens/wc_dur
+Number of tokens/words: 339824
+Number of types/unique words: 9466
+Top 20 words: [('the', 14974), ('to', 9157), ('a', 8650), ('and', 7810), ('is', 7203), ('of', 5978), ('not', 5745), ('in', 5743), ('i', 5631), ('that', 5492), ('it', 3869), ('we', 3844), ('he', 3719), ('for', 3210), ('have', 3189), ('but', 3071), ('be', 2918), ('wa', 2809), ('on', 2392), ('are', 2288)]
+
+Corpus file: stop/womens/wc_dur
+Number of tokens/words: 119087
+Number of types/unique words: 5485
+Top 20 words: [('the', 6507), ('to', 3150), ('and', 2632), ('a', 2527), ('is', 2357), ('i', 2168), ('in', 2020), ('not', 2006), ('of', 1885), ('that', 1767), ('it', 1406), ('have', 1170), ('for', 1048), ('but', 1029), ('are', 934), ('on', 927), ('be', 915), ('play', 892), ('we', 884), ('she', 875)]
